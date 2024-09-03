@@ -1,0 +1,9 @@
+batch_size: 16
+height: 32
+learning_rate: 0.0005
+max_text_length: 21
+model_path: Models/03_handwriting_recognition\202409011146
+train_epochs: 1000
+train_workers: 20
+vocab: zY/"&Ssy9rpxEe,68Jj*NT!H5B41KMgUbv7a.O-cDQPLno0kCldwGW)V#h:Z32?+u(iFAR;mXq'Ift
+width: 128
